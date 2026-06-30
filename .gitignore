@@ -1,0 +1,9 @@
+# System and IDE Files
+.thumbnail/
+.gemini/
+.antigravity-ide/
+.DS_Store
+Thumbs.db
+
+# Backup or temporary folders
+uploads/new dr.shafiq/
